@@ -1,0 +1,23 @@
+
+.header{
+    background:url(bg-pic.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:20rem;
+}
+.btn{
+    padding:.5rem;
+    padding-left:1.5rem;
+    padding-right:1.5rem;
+    border-radius:1.5rem;
+}
+/* img{
+    border-radius:.5rem;
+} */
+.middle{
+    min-height: 80vh;
+}
+#footer{
+    color: #07aff1;
+    font-weight: bold;
+}
